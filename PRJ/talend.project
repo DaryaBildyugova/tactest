@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_se8O0CqUEeenxOabHJzDxg" label="prj" description="" language="java" technicalLabel="PRJ" creationDate="2017-04-26T17:17:39.680+0200" author="_se8O0SqUEeenxOabHJzDxg" productVersion="Talend Data Management Platform-6.4.0.20170425_1932-SNAPSHOT" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/DaryaBildyugova/tactest.git&quot;,&quot;login&quot;:&quot;dbildyugova@talend.com&quot;,&quot;passwd&quot;:&quot;+CqgRhQt4M3G7BwZzXqVf8sRAoeZGzyV&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" bigData="false"/>
+  <TalendProperties:User xmi:id="_se8O0SqUEeenxOabHJzDxg" login="dbildyugova@talend.com" firstName="test" lastName="test" type="DI" additionnalData="{}"/>
+</xmi:XMI>
