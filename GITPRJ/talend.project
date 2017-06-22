@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_q7N9QRt1Eee6qq-dsWnAHw" label="gitPrj" description="" language="java" technicalLabel="GITPRJ" creationDate="2017-04-07T12:22:01.119+0300" author="_q7N9Qht1Eee6qq-dsWnAHw" productVersion="Talend Data Management Platform-6.4.0.20170410_1650-RC1" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/DaryaBildyugova/tactest.git&quot;,&quot;login&quot;:&quot;dbildyugova@talend.com&quot;,&quot;passwd&quot;:&quot;+CqgRhQt4M3G7BwZzXqVf8sRAoeZGzyV&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3">
+  <TalendProperties:Project xmi:id="_q7N9QRt1Eee6qq-dsWnAHw" label="gitPrj" description="" language="java" technicalLabel="GITPRJ" creationDate="2017-04-07T12:22:01.119+0300" author="_q7N9Qht1Eee6qq-dsWnAHw" productVersion="Talend Data Management Platform-6.4.1.20170602_1932-SNAPSHOT" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/DaryaBildyugova/tactest.git&quot;,&quot;login&quot;:&quot;dbildyugova@talend.com&quot;,&quot;passwd&quot;:&quot;+CqgRhQt4M3G7BwZzXqVf8sRAoeZGzyV&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3">
     <technicalStatus xmi:id="_rc9YYBt1Eee6qq-dsWnAHw" label="development" code="DEV"/>
     <technicalStatus xmi:id="_rc9YYRt1Eee6qq-dsWnAHw" label="testing" code="TEST"/>
     <technicalStatus xmi:id="_rc9_cBt1Eee6qq-dsWnAHw" label="production" code="PROD"/>
@@ -374,5 +374,5 @@
     <migrationTask xmi:id="_V1mqoB6EEeeWp7lhexq9tA" id="org.talend.repository.model.migration.ChangeDBversionForSybaseIQMigrationTask" breaks="6.4.0" version="6.4.1" status="ok"/>
     <migrationTask xmi:id="_rorguxt1Eee6qq-dsWnAHw" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
-  <TalendProperties:User xmi:id="_q7N9Qht1Eee6qq-dsWnAHw" login="dbildyugova@talend.com" firstName="test3" lastName="twes" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_q7N9Qht1Eee6qq-dsWnAHw" login="dbildyugova@talend.com" firstName="test" lastName="test" type="DI" additionnalData="{}"/>
 </xmi:XMI>
