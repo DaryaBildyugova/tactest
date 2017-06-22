@@ -362,3 +362,10 @@
  ---=== End of migration ===---
  ---=== Start Migration of project gitPr ===---
  * Task [AddJavaVersionMigrationTask] : Applied successfully
+ * Task [Fix a problem of project resources linked to items] : Nothing to do
+ * Task [NewNetsuiteMigrationTask] : Nothing to do
+ * Task [AddApiModeToMarketoComponentsMigrationTask] : Nothing to do
+ * Task [Set FailOn property to true if copy directory else set to false] : Nothing to do
+ * Task [Set the Spark Dataframe Alphabatical sort order in tHiveOutput and tFileOutputParquet] : Nothing to do
+ * Task [AutoUpdateRelationsMigrationTask] : Nothing to do
+ ---=== End of migration ===---
