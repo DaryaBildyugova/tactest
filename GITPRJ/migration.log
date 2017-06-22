@@ -325,3 +325,5 @@
  * Task [ChangeDBversionForSybaseIQMigrationTask] : Applied successfully
  * Task [AutoUpdateRelationsMigrationTask] : Applied successfully
  ---=== End of migration ===---
+ ---=== Start Migration of project gitPrj ===---
+ * Task [AddJavaVersionMigrationTask] : Applied successfully

@@ -370,9 +370,9 @@
     <migrationTask xmi:id="_rorguBt1Eee6qq-dsWnAHw" id="org.talend.designer.core.generic.model.migration.NewMarketoMigrationTask" breaks="6.4.0" version="6.4.0" status="noimpact"/>
     <migrationTask xmi:id="_rorguRt1Eee6qq-dsWnAHw" id="org.talend.designer.joblet.repository.migration.ResetJobletComponentNameMigrationTask" breaks="6.3.0" version="6.3.1" status="noimpact"/>
     <migrationTask xmi:id="_rorguht1Eee6qq-dsWnAHw" id="org.talend.repository.model.migration.ResetItemLabelMigrationTask" breaks="4.2.4" version="5.2.2" status="ok"/>
-    <migrationTask xmi:id="_roq5mht1Eee6qq-dsWnAHw" id="org.talend.repository.model.migration.FixProjectResourceLink" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_V1mqoB6EEeeWp7lhexq9tA" id="org.talend.repository.model.migration.ChangeDBversionForSybaseIQMigrationTask" breaks="6.4.0" version="6.4.1" status="ok"/>
     <migrationTask xmi:id="_rorguxt1Eee6qq-dsWnAHw" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
+    <migrationTask xmi:id="_WIwKgVc3EeeBu8M5DGmnkg" id="org.talend.repository.model.migration.AddJavaVersionMigrationTask" breaks="6.3.1" version="6.4.0" status="ok"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_q7N9Qht1Eee6qq-dsWnAHw" login="dbildyugova@talend.com" firstName="test" lastName="test" type="DI" additionnalData="{}"/>
 </xmi:XMI>
