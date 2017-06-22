@@ -146,7 +146,6 @@
     <migrationTask xmi:id="_5I8niknYEeeQJKlQBeX2Bg" id="org.talend.designer.mapper.migration.TMapSaveToEmfMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_5I8ni0nYEeeQJKlQBeX2Bg" id="org.talend.designer.xmlmap.migration.TXMLMapChangeAllInOneValueMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_5I8njEnYEeeQJKlQBeX2Bg" id="org.talend.designer.dbmap.migration.ELTMapSaveToEmfMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
-    <migrationTask xmi:id="_5I8njUnYEeeQJKlQBeX2Bg" id="org.talend.repository.model.migration.FixProjectResourceLink" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_5I8njknYEeeQJKlQBeX2Bg" id="org.talend.repository.model.migration.ResetValuetInfiniteLoop" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_5I8nj0nYEeeQJKlQBeX2Bg" id="org.talend.repository.model.migration.UpgrateDatabaseTypeForSybaseConnection" breaks="5.1.1" version="5.1.2" status="ok"/>
     <migrationTask xmi:id="_5I8nkEnYEeeQJKlQBeX2Bg" id="org.talend.repository.model.migration.RenamePasswordParaForLdapMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
@@ -367,6 +366,7 @@
     <migrationTask xmi:id="_5I8oZ0nYEeeQJKlQBeX2Bg" id="org.talend.repository.model.migration.ResetItemLabelMigrationTask" breaks="4.2.4" version="5.2.2" status="ok"/>
     <migrationTask xmi:id="_5I8oaEnYEeeQJKlQBeX2Bg" id="org.talend.designer.mapreduce.repository.migration.AddSupportedSparkVersionMigrationTask" breaks="6.4.0" version="6.4.0" status="noimpact"/>
     <migrationTask xmi:id="_5I8oaUnYEeeQJKlQBeX2Bg" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
+    <migrationTask xmi:id="_irmKwVddEeeC1P_inXLH7g" id="org.talend.repository.model.migration.AddJavaVersionMigrationTask" breaks="6.3.1" version="6.4.0" status="ok"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_4J4-AknYEeeQJKlQBeX2Bg" login="dbildyugova@talend.com" firstName="test" lastName="test" type="MDM" additionnalData="{}"/>
 </xmi:XMI>

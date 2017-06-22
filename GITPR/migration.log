@@ -360,3 +360,5 @@
  * Task [org.talend.designer.mapreduce.repository.migration.AddSupportedSparkVersionMigrationTask] : Nothing to do
  * Task [AutoUpdateRelationsMigrationTask] : Nothing to do
  ---=== End of migration ===---
+ ---=== Start Migration of project gitPr ===---
+ * Task [AddJavaVersionMigrationTask] : Applied successfully
