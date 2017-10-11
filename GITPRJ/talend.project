@@ -161,6 +161,13 @@
       <relatedItems xmi:id="_B8jFTq5-Eeel_Kg17MZWuA" id="Write_To_File" version="Latest" type="routine"/>
       <relatedItems xmi:id="_B8jFT65-Eeel_Kg17MZWuA" id="Relational" version="Latest" type="routine"/>
       <relatedItems xmi:id="_B8jFUK5-Eeel_Kg17MZWuA" id="date" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_FhxsQK6OEeel_Kg17MZWuA" id="DataMasking" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_FhxsQa6OEeel_Kg17MZWuA" id="DqStringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_FhxsQq6OEeel_Kg17MZWuA" id="DataQuality" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_FhxsQ66OEeel_Kg17MZWuA" id="DQTechnical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_FhxsRK6OEeel_Kg17MZWuA" id="DataQualityDependencies" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_FhxsRa6OEeel_Kg17MZWuA" id="MDM" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_FhxsRq6OEeel_Kg17MZWuA" id="TalendStringUtil" version="Latest" type="routine"/>
     </ItemsRelations>
     <ItemsRelations xmi:id="_B8jFUa5-Eeel_Kg17MZWuA">
       <baseItem xmi:id="_B8jFUq5-Eeel_Kg17MZWuA" id="_eBLpoIPJEees6KpG1l1a5g" version="0.1" type="job"/>
